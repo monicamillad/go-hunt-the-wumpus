@@ -11,7 +11,9 @@
 - Player can move to adjacent rooms or shoot an arrow
 - Player wins by shooting the Wumpus
 - Player loses if they enter the Wumpus' room or fall into a pit
-- Player gets warnings when near hazards or the WumpusKey actions:
+- Player gets warnings when near hazards or the WumpusKey 
+
+# Actions:
 - Move
 - Shoot
 - Check for hazards
